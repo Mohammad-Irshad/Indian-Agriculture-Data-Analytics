@@ -38,5 +38,13 @@ Screenshot of the app
 
    ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/240d4f79-d834-4215-9d1a-98a60574c36a)
 
+   ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/91bc87b4-9fc6-45fe-9c03-ef63c77f7209)
 
-3. Average Yield and Cultivation Area
+   ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/3360ec92-1867-4b7a-a192-5e5d70d04115)
+
+   ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/739393ff-ee6f-4fae-ac2d-b976d92a89ca)
+
+2. Average Yield and Cultivation Area
+
+   ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/8d2373ab-6b36-4e30-8844-586d54a1e607)
+
