@@ -13,10 +13,14 @@ Agriculture Analytics is a specialized React application focusing on analyzing I
    ```
 
 2. Install dependencies
-   ```yarn install
+   ```bash
+   yarn install
+   ```
 
 3. To start the project locally:
-   ```yarn start
+   ```bash
+   yarn start
+   ```
    This will run the app in development mode. Open http://localhost:3000 to view it in the browser.
 
 Scripts
