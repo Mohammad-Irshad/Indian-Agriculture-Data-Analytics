@@ -29,5 +29,14 @@ yarn build: Builds the app for production to the build folder.
 yarn test: Launches the test runner in the interactive watch mode.
 
 Dependencies
-React
+React, 
 Mantine v7
+
+Screenshot of the app 
+
+1. Crop Production by Year
+
+   ![image](https://github.com/Mohammad-Irshad/Indian-Agriculture-Data-Analytics/assets/132482951/240d4f79-d834-4215-9d1a-98a60574c36a)
+
+
+3. Average Yield and Cultivation Area
